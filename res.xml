@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<State
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="res.xsd">
+
+<Resident Id="100">
+    <Name>
+        <FirstName>Nandha</FirstName>
+        <LastName>Ramani</LastName>
+    </Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>Nandha@example.com</EmailAddress>
+	<Address>
+		<StreetLine>SEZ</StreetLine>
+		<City>Chennai</City>
+		<StateCode>CH</StateCode>
+		<PostalCode>12345</PostalCode>
+	</Address>
+	<InsurerName> HCSC</InsurerName>
+	<PolicyCode> 10206</PolicyCode>
+</Resident>
+
+<Resident Id="101">
+	<Name>
+        <FirstName> Gurulakshmi</FirstName>
+        <LastName>Rajaguru</LastName>
+    </Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>Gurulakshmi@example.com</EmailAddress>
+	<Address>
+		<StreetLine>SEZ</StreetLine>
+		<City>Chennai</City>
+		<StateCode>CH</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+	<InsurerName> HCSC</InsurerName>
+	<PolicyCode> 10206</PolicyCode>
+</Resident>
+
+<Resident Id="103">
+	<Name>
+        <FirstName> Moni</FirstName>
+        <LastName>Ravichandran</LastName>
+    </Name>
+	<PhoneNumber>587854858</PhoneNumber>
+	<EmailAddress>Moni@example.com</EmailAddress>
+	<Address>
+		<StreetLine>SEZ</StreetLine>
+		<City>Chennai</City>
+		<StateCode>CH</StateCode>
+		<PostalCode>32154</PostalCode>
+	</Address>
+	<InsurerName> HCSC</InsurerName>
+	<PolicyCode> 10206</PolicyCode>
+</Resident>
+
+<Resident Id="104">
+	<Name>
+		<FirstName>Shar</FirstName>
+		<LastName>mila</LastName>
+	</Name>
+	<PhoneNumber>65456445454</PhoneNumber>
+	<EmailAddress>shar@gmail.com</EmailAddress>
+	<Address>
+		<StreetLine>SEZ</StreetLine>
+		<City>Chennai</City>
+		<StateCode>Ch</StateCode>
+		<PostalCode>562</PostalCode>
+	</Address>
+	<InsurerName>HCSC</InsurerName>
+	<PolicyCode>10124</PolicyCode>
+</Resident>
+
+</State>
